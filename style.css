@@ -1,0 +1,140 @@
+body {
+    font-size: 15pt;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #4677B9, #6FA2C8);
+}
+
+
+.form-card {
+  background:#EFEFEF;
+  border-radius: 10px;
+  margin: 50px;
+  margin-bottom: 50px;
+  padding: 5px 5px 15px 5px;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(to right, #E1EDFC, #9BC9EC);
+  box-shadow: 1px 1px 10px rgba(70, 112, 165, 1);
+}
+
+.applicant {
+  font-size: small;
+  margin-right: 195px;
+  margin-bottom: 1px;
+  margin-top: 20px;
+}
+
+.input-field input[type="text"],
+.input-field input[type="number"] {
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+  margin: 5px;
+  padding: 5px 5px 5px 12px;
+  font-size: medium;
+  border: 0px solid dimgray;
+  box-shadow: 1px 1px 5px rgba(169, 189, 214, 1);
+}
+
+
+.registration {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+.reminder {
+  font-size: small;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.email {
+  font-size: small;
+  margin-right: 257px;
+  margin-bottom: 1px;
+  margin-top: 20px;
+}
+
+.phonenumber {
+  font-size: small;
+  margin-right: 200px;
+  margin-bottom: 1px;
+  margin-top: 20px;
+}
+
+.position {
+  font-size: small;
+  margin-right: 240px;
+  margin-bottom: 1px;
+  margin-top: 20px;
+}
+
+.gender {
+  font-size: small;
+  margin-right: 248px;
+  margin-bottom: 1px;
+  margin-top: 20px;
+}
+
+.select-position select[name="position"] {
+  border-radius: 10px;
+  width: 318px;
+  height: 42px;
+  margin: 5px;
+  padding: 3px 5px 5px 7px;
+  font-size: medium;
+  border: 0px solid dimgray;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 5px rgba(169, 189, 214, 1);
+}
+
+.select-gender select[name="gender"] {
+  border-radius: 10px;
+  width: 318px;
+  height: 42px;
+  margin: 5px;
+  padding: 3px 5px 5px 7px;
+  font-size: medium;
+  border: 0px solid dimgray;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 5px rgba(169, 189, 214, 1);
+}
+
+.login {
+  border-radius: 50px;
+  width: 200px;
+  height: 42px;
+  margin: 20px;
+  margin-top: 12px;
+  padding: 3px 5px 5px 7px;
+  font-size: large;
+  border: 0px solid dimgray;
+  color: #FFFFFF;
+  background-color: #24B04D;
+  background: linear-gradient(to right, #B0F88D, #289711);
+  box-shadow: 1px 1px 10px rgba(70, 112, 165, 1);
+}
+
+.help {
+  text-decoration: none;
+  color: #000000;
+  font-size: small;
+  margin-bottom: 0px;
+}
+
+.line {
+  margin-top: 0px;
+  padding: 0px;
+  border: 0.5px solid gray;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.clickme {
+  color: #0639B5;
+  font-size: small;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
